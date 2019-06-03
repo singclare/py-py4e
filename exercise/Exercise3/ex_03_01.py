@@ -11,5 +11,5 @@ if fh > 40 :
     xp = reg + otp
 else :
     #print("regular")
-xp = fh * fr
+     xp = fh * fr
 print("Pay: ", xp)
